@@ -1,0 +1,14 @@
+name: CI Message
+
+on:
+  - push
+
+jobs:
+  ci-message:
+    name: CI Message
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: CI Message
+        run: echo "This is a CI Message!"
