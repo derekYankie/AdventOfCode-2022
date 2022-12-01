@@ -45,4 +45,4 @@ jobs:
       # Run my unit tests using the webapp
     - name: Run Unit Tests
       run: |
-        python test_app.py
+        python day01.py
