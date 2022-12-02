@@ -4,8 +4,7 @@
 name: CI Test Python
 
 on:
-  push:
-    branches: [ "main" ]
+  - push
 
 permissions:
   contents: read
