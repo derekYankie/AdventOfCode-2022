@@ -18,6 +18,8 @@ jobs:
         with:
           userid: ${{ secrets.AOC_USER_ID }}          
           session: ${{ secrets.AOC_SESSION }}
+          file: 'README.md'
+          starsRegex: '(?<=https:\/\/img\.shields\.io\/badge\/stars%20⭐-)[0-9]+(?=-yellow)'
           
 #         Optional inputs:
 #         
