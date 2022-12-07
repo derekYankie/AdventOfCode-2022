@@ -18,5 +18,5 @@ This repo contains my solutions for the 25 days of Advent of Code 2022 https://a
 
 -derekYankie
 
-![](https://img.shields.io/badge/day%20📅-6-blue)
+![](https://img.shields.io/badge/day%20📅-7-blue)
 ![](https://img.shields.io/badge/stars%20⭐-12-yellow)
