@@ -1,5 +1,5 @@
 ![Advent Of Code](https://cdn.thenewstack.io/media/2021/12/521cd034-advent-of-code-2021.jpg)
-# :christmas_tree: Advent of Code :christmas_tree: ![](https://img.shields.io/badge/day%20📅-7-blue) ![](https://img.shields.io/badge/stars%20⭐-12-yellow) [![CI Test Python](https://github.com/derekYankie/AdventOfCode-2022/actions/workflows/ci-test.yml/badge.svg)](https://github.com/derekYankie/AdventOfCode-2022/actions/workflows/ci-test.yml)
+# :christmas_tree: Advent of Code :christmas_tree: ![](https://img.shields.io/badge/day%20📅-8-blue) ![](https://img.shields.io/badge/stars%20⭐-12-yellow) [![CI Test Python](https://github.com/derekYankie/AdventOfCode-2022/actions/workflows/ci-test.yml/badge.svg)](https://github.com/derekYankie/AdventOfCode-2022/actions/workflows/ci-test.yml)
 This repo contains my solutions for the 25 days of Advent of Code 2022 https://adventofcode.com/
 > [Advent of Code](https://adventofcode.com/) is an Advent calendar of small programming puzzles for a variety of skill sets and skill levels that can be solved in any programming language you like. People use them as interview prep, company training, university coursework, practice problems, a speed contest, or to challenge each other. [More info](https://adventofcode.com/about)
 ##
